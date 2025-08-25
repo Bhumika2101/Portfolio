@@ -82,7 +82,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Information **Security**",
+                            "title": "Full Stack  **Development**",
                             "text": "Security is my middle name!"
                         },
                         "hi": {
@@ -150,7 +150,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 100,
+                    "value": 90,
                     "dates": {
                         "start": null
                     },
@@ -178,7 +178,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 65,
+                    "value": 40,
                     "dates": {
                         "start": null
                     },
@@ -206,7 +206,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 100,
+                    "value": 90,
                     "dates": {
                         "start": null
                     },
@@ -234,7 +234,7 @@
                             "fill": "#111"
                         }
                     },
-                    "value": 80,
+                    "value": 70,
                     "dates": {
                         "start": null
                     },
@@ -262,7 +262,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 50,
+                    "value": 80,
                     "dates": {
                         "start": null
                     },
