@@ -83,15 +83,16 @@
                     "locales": {
                         "en": {
                             "title": "Full Stack  **Development**",
-                            "text": "Security is my middle name!"
+                            "text": "Building seamless applications from front-end to back-end."
                         },
                         "hi": {
-                            "title": "सूचना **सुरक्षा**",
-                            "text": "सुरक्षा मेरा दूसरा नाम है!"
+                            "title":  "फुल स्टॅक **डेव्हलपमेंट**",
+                            "text": "फ्रंट-एंड से बैक-एंड तक सहज एप्लिकेशन बनाना।"
                         },
                         "mr": {
-                            "title": "माहिती **सुरक्षा**",
-                            "text": "सुरक्षा हेच माझं दुसरं नाव आहे!"
+                            "title":  "फुल स्टॅक **डेव्हलपमेंट**",
+                            "text": "फ्रंट-एंड पासून बॅक-एंड पर्यंत सहज अ‍ॅप्लिकेशन्स तयार करणे."
+
                         }
                     }
                 }
@@ -106,10 +107,10 @@
                     "title": "Backend"
                 },
                 "hi": {
-                    "title": "हिंदी अनुवादित शीर्षक"
+                    "title": "बॅकएंड"
                 },
                 "mr": {
-                    "title": "मराठी अनुवादित शीर्षक"
+                    "title": "बॅकएंड"
                 }
             },
             "items": [
@@ -122,7 +123,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 95,
+                    "value": 80,
                     "dates": {
                         "start": null
                     },
@@ -178,7 +179,7 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 40,
+                    "value": 65,
                     "dates": {
                         "start": null
                     },
@@ -197,13 +198,13 @@
                         }
                     }
                 },
-                {
+                                {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
+                        "fa": "fa-brands fa-js",
                         "faColors": {
-                            "bg": "#4479A1",
-                            "fill": "#EEE"
+                            "bg": "#F7DF1E",
+                            "fill": "#111"
                         }
                     },
                     "value": 90,
@@ -212,15 +213,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "MySQL",
+                            "title": "JavaScript",
                             "info": null
                         },
                         "hi": {
-                            "title": "MySQL",
+                            "title": "JavaScript",
                             "text": null
                         },
                         "mr": {
-                            "title": "MySQL",
+                            "title": "JavaScript",
                             "text": null
                         }
                     }
@@ -234,7 +235,7 @@
                             "fill": "#111"
                         }
                     },
-                    "value": 70,
+                    "value": 80,
                     "dates": {
                         "start": null
                     },
@@ -253,13 +254,14 @@
                         }
                     }
                 },
-                {
+
+               {
                     "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-server",
+                        "img": "images/pictures/express-js.png",
+                        "fa": null,
                         "faColors": {
-                            "bg": "#47A248",
-                            "fill": "#EEE"
+                            "bg": null,
+                            "fill": null
                         }
                     },
                     "value": 80,
@@ -268,43 +270,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "MongoDB",
+                            "title": "Express.js",
                             "info": null
                         },
                         "hi": {
-                            "title": "MongoDB",
+                            "title": "Express.js",
                             "text": null
                         },
                         "mr": {
-                            "title": "MongoDB",
-                            "text": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-git",
-                        "faColors": {
-                            "bg": "#F05032",
-                            "fill": "#111"
-                        }
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Git",
-                            "info": null
-                        },
-                        "hi": {
-                            "title": "Git",
-                            "text": null
-                        },
-                        "mr": {
-                            "title": "Git",
+                            "title": "Express.js",
                             "text": null
                         }
                     }
@@ -364,53 +338,26 @@
                             "fill": "#EEE"
                         }
                     },
-                    "value": 85,
-                    "dates": {
-                        "start": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "CSS3",
-                            "info": null
-                        },
-                        "hi": {
-                            "title": "CSS3",
-                            "text": null
-                        },
-                        "mr": {
-                            "title": "CSS3",
-                            "text": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-js",
-                        "faColors": {
-                            "bg": "#F7DF1E",
-                            "fill": "#111"
-                        }
-                    },
                     "value": 90,
                     "dates": {
                         "start": null
                     },
                     "locales": {
                         "en": {
-                            "title": "JavaScript",
+                            "title": "CSS3",
                             "info": null
                         },
                         "hi": {
-                            "title": "JavaScript",
+                            "title": "CSS3",
                             "text": null
                         },
                         "mr": {
-                            "title": "JavaScript",
+                            "title": "CSS3",
                             "text": null
                         }
                     }
                 },
+
                 {
                     "icon": {
                         "img": null,
@@ -439,34 +386,7 @@
                         }
                     }
                 },
-                {
-                    "icon": {
-                        "img": "images/pictures/express-js.png",
-                        "fa": null,
-                        "faColors": {
-                            "bg": null,
-                            "fill": null
-                        }
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": null
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Express.js",
-                            "info": null
-                        },
-                        "hi": {
-                            "title": "Express.js",
-                            "text": null
-                        },
-                        "mr": {
-                            "title": "Express.js",
-                            "text": null
-                        }
-                    }
-                },
+
                 {
                     "icon": {
                         "img": null,
@@ -491,6 +411,80 @@
                         },
                         "mr": {
                             "title": "Bootstrap",
+                            "text": null
+                        }
+                    }
+                }
+            ]
+        },
+                {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Databases"
+                },
+                "hi": {
+                    "title": "डेटाबेसेस"
+                },
+                "mr": {
+                    "title": "डेटाबेसेस"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {
+                            "bg": "#4479A1",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "MySQL",
+                            "text": null
+                        },
+                        "mr": {
+                            "title": "MySQL",
+                            "text": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {
+                            "bg": "#47A248",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "MongoDB",
+                            "text": null
+                        },
+                        "mr": {
+                            "title": "MongoDB",
                             "text": null
                         }
                     }

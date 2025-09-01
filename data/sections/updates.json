@@ -26,7 +26,20 @@
             "title_menu": "업데이트",
             "title_long_prefix": "내 최근",
             "title_long": "**업데이트**를 확인해 보세요"
-        }
+        },
+         "hi": {
+        "title": "हाल ही का जीवन",
+        "title_menu": "अपडेट्स",
+        "title_long_prefix": "मेरे",
+        "title_long": "हाल के **अपडेट्स** देखें"
+    },
+
+    "mr": {
+        "title": "अलिकडचे जीवन",
+        "title_menu": "अपडेट्स",
+        "title_long_prefix": "माझी",
+        "title_long": "नवीनतम **अपडेट्स** पाहा"
+    }
     },
 
     "articles": [
@@ -60,6 +73,7 @@
                             "title": "03",
                             "info": "출시된 앱"
                         }
+                        
                     }
                 },
                 {
